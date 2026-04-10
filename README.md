@@ -215,7 +215,7 @@ git push origin feature/your-feature-name
 Then open a pull request with a concise summary and screenshots if your changes affect the UI.
 
 ## 👨‍💻 Author
-**Nikhil**
+**Priya Sharma Harit**
 
 - GitHub: [@Priya-Sharma06](https://github.com/Priya-Sharma06/DSA-visualizer)
 - Live Demo: [AlgoViz Pro](https://dsa-visualizer-xi-nine.vercel.app/)
