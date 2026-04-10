@@ -148,7 +148,7 @@ flowchart LR
 ## ⚙️ How To Run Locally
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/nikhil22321/DSA-visualizer.git
+git clone https://github.com/Priya-Sharma06/DSA-visualizer.git
 cd DSA-visualizer
 ```
 
